@@ -6,7 +6,8 @@
     android:layout_height="match_parent"
     android:orientation="horizontal"
     android:paddingStart="150dp"
-    android:paddingEnd="0dp">
+    android:paddingEnd="0dp"
+    android:background="@color/purple_200">
 
     <Button
         android:id="@+id/button2"
